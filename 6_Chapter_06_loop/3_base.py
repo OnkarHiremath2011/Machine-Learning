@@ -1,0 +1,4 @@
+# Print the multiplication table of any number (say 5).
+n = 5
+for i in range(1,11):
+    print(f"{n} X {i} = {n*i}")
